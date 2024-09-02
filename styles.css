@@ -1,0 +1,24 @@
+  body{
+    color: black;
+    background:rebeccapurple;
+  margin: 0px;
+}
+
+ header{
+    border-bottom: solid 2px rgb(0,0,0);
+ padding: 20px;
+ font-size: 32px;
+ color: rgb(0,0,0);
+}
+
+section{
+  background-image:url(https://static.vecteezy.com/ti/vetor-gratis/p1/14216682-fundo-de-abstrato-moderno-de-linhas-de-ondas-fluidas-de-gradiente-roxo-e-azul-conceito-de-ilustracao-de-tecnologia-futurista-vetor.jpg);
+padding-bottom: 80px;
+padding-top: 80px;
+display:flex;
+justify-content: center;
+}
+
+.chamada-texto{
+  margin-right: 5%;
+}
